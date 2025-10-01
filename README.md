@@ -14,21 +14,25 @@ It is adapted from the **Sakila Sample Database**, widely used for learning rela
 
 The schema models a **DVD rental business**, including entities such as films, actors, customers, staff, stores, rentals, and payments.
 
----
+## 🗂️Dataset Description
+The Maven Movies dataset contains the following key tables:
 
-## 🗂 Database Features
-- **Schema Name:** `mavenmovies`
-- **Database Type:** MySQL 
-- **Key Components:**
-  - **Tables** for customers, films, rentals, staff, stores, payments, etc.
-  - **Relationships** using primary and foreign keys.
-  - **Indexes** to optimize queries (e.g., searching actors by last name).
-  - **Views** for simplified reporting (e.g., `customer_list`, `film_list`, `sales_by_store`).
-  - **Stored Procedures** for business logic (e.g., `rewards_report`, `film_in_stock`).
-  - **Functions** for reusable logic (e.g., `get_customer_balance`, `inventory_in_stock`).
-  - **Triggers** to keep `film_text` in sync with `film`.
+- Actor – List of all actors.
 
----
+- Film – Details of movies including title, release year, rating, and rental duration.
+
+- Category – Genre/category of films.
+
+- Customer – Information about customers who rented movies.
+
+- Rental – Rental transactions and their timestamps.
+
+- Payment – Payment records for rentals.
+
+- Store & Staff – Information about stores and employees.
+
+
+
 
 ## 📋 Schema Highlights
 - **Core Tables:**
