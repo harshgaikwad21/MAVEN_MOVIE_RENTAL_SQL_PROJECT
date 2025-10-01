@@ -1,6 +1,6 @@
 # MAVEN_MOVIE_RENTAL_SQL_PROJECT
 
-![Uploading image.png…]()
+![Uploading image.png…](https://www.vecteezy.com/photo/56069125-manga-comics-book)
 
 
 <h1>📌Project Overview</h1>
