@@ -109,3 +109,49 @@ Understand the database schema and relationships.
 Retrieve customer first name, last name, and email ID.
 
 
+2. Count of Movies with Rental Rate of $0.99
+
+
+3. Rental Rate Distribution and Movie Count
+
+
+4. Most Common Movie Rating
+
+
+5. Most Prevalent Rating per Store
+
+
+6. List of Films by Name, Category, and Language
+
+
+7. Movie Rental Frequency
+
+
+8. Top 10 Grossing Films
+
+
+9. Highest Spending Customer
+
+
+10. Store with Most Revenue
+
+
+11. Monthly Rentals Count
+
+
+12. Customers Eligible for Rewards
+
+
+13. Payments from First 100 Customers
+
+
+14. Payments Over $5 Since Jan 1, 2006
+
+
+15. Payments Over $5 for Specific Customers
+
+
+
+
+
+
