@@ -101,3 +101,11 @@ Understand the database schema and relationships.
 3. Open MySQL and execute the script:
    ```sql
    SOURCE create_mavenmovies.sql;
+
+
+<h1>Queries and Visualizations</h1>
+
+1. Customer Information for Marketing Team
+Retrieve customer first name, last name, and email ID.
+
+
