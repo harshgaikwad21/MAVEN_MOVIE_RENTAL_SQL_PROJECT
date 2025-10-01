@@ -105,29 +105,45 @@ Understand the database schema and relationships.
 
 <h1>Queries and Visualizations</h1>
 
-1. Customer Information for Marketing Team
+# 1. Customer Information for Marketing Team
 Retrieve customer first name, last name, and email ID.
+
+<img width="519" height="375" alt="Screenshot 2025-09-30 150258" src="https://github.com/user-attachments/assets/986502cb-c479-438f-86c9-4402c28904eb" />
 
 
 2. Count of Movies with Rental Rate of $0.99
 
+<img width="195" height="102" alt="Screenshot 2025-09-30 151802" src="https://github.com/user-attachments/assets/ee03f87d-a2ff-4213-b4c3-5eea3412b1b3" />
+
 
 3. Rental Rate Distribution and Movie Count
+
+<img width="334" height="119" alt="Screenshot 2025-09-30 152618" src="https://github.com/user-attachments/assets/e09234f6-57d1-4f0b-9572-f455c00816ee" />
 
 
 4. Most Common Movie Rating
 
+<img width="302" height="201" alt="Screenshot 2025-09-30 153146" src="https://github.com/user-attachments/assets/b302dc2d-0f8d-4eec-b494-7c263186cb17" />
+
 
 5. Most Prevalent Rating per Store
+
+<img width="266" height="257" alt="Screenshot 2025-09-30 154604" src="https://github.com/user-attachments/assets/c3c8735e-3dff-48b4-818b-490446cc668f" />
 
 
 6. List of Films by Name, Category, and Language
 
+<img width="444" height="382" alt="Screenshot 2025-09-30 161426" src="https://github.com/user-attachments/assets/01e4e055-27e1-4e3f-add1-84f0de191381" />
+
 
 7. Movie Rental Frequency
 
+<img width="297" height="362" alt="Screenshot 2025-10-01 000306" src="https://github.com/user-attachments/assets/346784fa-6abf-4805-9194-f937e7460d60" />
+
 
 8. Top 10 Grossing Films
+
+<img width="322" height="247" alt="Screenshot 2025-10-01 000457" src="https://github.com/user-attachments/assets/c511d90f-c8fa-427e-a0ff-47687355635b" />
 
 
 9. Highest Spending Customer
@@ -155,6 +171,51 @@ Retrieve customer first name, last name, and email ID.
 
 
 17. Films with 'Behind the Scenes' Special Feature
+
+
+18. Unique Movie Ratings and Count
+
+
+19. Titles Count by Rental Duration
+
+
+20. Ratings, Movie Count, Length, and Rental Duration
+
+
+21. Film Count by Replacement Cost with Rental Rates
+
+
+22. Customers with Less Than 15 Rentals
+
+
+23. Longest Films Sorted by Length and Rental Rate
+
+
+24. Categorization of Movies by Length
+
+
+25. Movie Recommendations by Age Group
+
+
+26. Store Activity
+
+
+27. Films Inventory List
+
+
+28. Actor Movie Count
+
+
+29. Number of Actors per Film
+
+
+30. List of Customers Favourite Actors
+
+
+31. List of Staff and Advisors
+
+
+
 
 
 
