@@ -149,7 +149,7 @@ Retrieve customer first name, last name, and email ID.
 
 <img width="413" height="157" alt="Screenshot 2025-10-01 003754" src="https://github.com/user-attachments/assets/0dba62a6-22b1-44cb-8007-5211a355d2ab" />
 
-### 12. Customers Eligible for Rewards
+### 12. Reward users who have rented at least 30 times (with details of customers)
 
 <img width="857" height="372" alt="Screenshot 2025-10-01 010723" src="https://github.com/user-attachments/assets/27296bef-985c-4e42-adea-a3d2de359cde" />
 
