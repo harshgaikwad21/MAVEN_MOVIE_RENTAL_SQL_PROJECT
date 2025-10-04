@@ -1,5 +1,5 @@
 # MAVEN_MOVIE_RENTAL_SQL_PROJECT
-<img width="480" height="240" alt="image" src="https://github.com/user-attachments/assets/380308bf-cb34-4424-8905-e9a3e3d66260" />
+<img width="1000" height="1240" alt="image" src="https://github.com/user-attachments/assets/380308bf-cb34-4424-8905-e9a3e3d66260" />
 
 
 
