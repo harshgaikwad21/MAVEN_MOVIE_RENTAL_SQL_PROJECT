@@ -1,5 +1,5 @@
 # MAVEN_MOVIE_RENTAL_SQL_PROJECT
-<img width="1125" height="750" alt="image" src="https://github.com/user-attachments/assets/2b32356c-fbd4-4919-ba8a-d486202e3d88" />
+<img width="1536" height="1024" alt="ChatGPT Image Oct 4, 2025, 01_34_45 PM" src="https://github.com/user-attachments/assets/e316c795-d4ad-4060-b98a-d03b6490ca3f" />
 
 
 <h1>📌Project Overview</h1>
